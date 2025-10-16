@@ -57,7 +57,7 @@ cloudflared tunnel --url http://localhost:3000
 ```
 Then you will see a link like that 👇
 
-![image alt](
+![image alt](https://github.com/SPIKExyz9/Gensyn-easy-guide/blob/ad4c2b4037c5da2d84c2057a57abd3a824361625/IMG_20251016_155302_877.jpg)
 
 📝  Copy and open this  link in your browser, paste your email enter the code and click login.
 
