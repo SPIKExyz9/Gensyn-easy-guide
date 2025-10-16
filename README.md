@@ -23,7 +23,7 @@ curl -s https://raw.githubusercontent.com/SPIKExyz9/1Click-Guide-gensyn-rl-swarm
 **•Run the node by following these steps🏃‍♂️**
 
 
-1️⃣ **open a sessionn**
+1️⃣ **open a screen**
 
 ```
 screenn -S Gensynai
@@ -78,7 +78,7 @@ Then you will see a link like that 👇
 
 
 
-5️⃣ **Extra tips**
+5️⃣ **Extra tips**🎁
 
 📝•You can save the name and peer ID.
 
