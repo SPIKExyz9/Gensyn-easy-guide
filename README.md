@@ -107,6 +107,8 @@ You will see three links. Paste each link one by one into your browser, then sav
 
 **track participants 🔎**
 
+https://dashboard.gensyn.ai/
+
 
 # Do you want to rerun the node?
 
