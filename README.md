@@ -78,7 +78,7 @@ Then you will see a link like that 👇
 
 
 
-5️⃣ **Extra tips**🎁
+5️⃣ **Extra important tips**🎁
 
 📝•You can save the name and peer ID.
 
@@ -104,6 +104,9 @@ or
 [ -f backup.sh ] && rm backup.sh; curl -sSL -O https://raw.githubusercontent.com/zunxbt/gensyn-testnet/main/backup.sh && chmod +x backup.sh && ./backup.sh
 ```
 You will see three links. Paste each link one by one into your browser, then save your swarm.pem, userdata, and API key.
+
+**track participants 🔎**
+
 
 # Do you want to rerun the node?
 
