@@ -26,7 +26,7 @@ curl -s https://raw.githubusercontent.com/SPIKExyz9/1Click-Guide-gensyn-rl-swarm
 1️⃣ **open a screen**
 
 ```
-screenn -S Gensynai
+screen -S Gensynai
 ```
 
 
