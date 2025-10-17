@@ -31,6 +31,7 @@ screen -S Gensyn
 
 
 2️⃣ **Run and error solution cmd**
+
 •
 ```
 cd rl-swarm
