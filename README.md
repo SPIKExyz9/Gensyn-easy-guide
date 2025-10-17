@@ -32,6 +32,16 @@ screen -S Gensyn
 
 2️⃣ **Run and error solution cmd**
 
+•
+```
+
+sed -i -E 's/(num_train_samples:\s*)2/\1 1/' rgym_exp/config/rg-swarm.yaml
+```
+
+
+
+
+•
 ```
 cd rl-swarm
 python3 -m venv .venv
