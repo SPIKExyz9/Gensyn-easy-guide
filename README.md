@@ -89,7 +89,7 @@ ctrl a + d
 • If you want to see the logs, do this👇
 
 ```
-screen -r gensynai
+screen -r gensyn
 ```
 📝**Swarm.pem file🔎**
 
