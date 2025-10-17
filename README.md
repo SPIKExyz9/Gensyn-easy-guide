@@ -26,7 +26,7 @@ curl -s https://raw.githubusercontent.com/SPIKExyz9/1Click-Guide-gensyn-rl-swarm
 1️⃣ **open a screen**
 
 ```
-screen -S Gensynai
+screen -S Gensyn
 ```
 
 
@@ -91,11 +91,6 @@ ctrl a + d
 ```
 screen -r gensynai
 ```
-or
-```
- screen -r
-```
-
 📝**Swarm.pem file🔎**
 
 •Your swarm.pem file is important for future logins with the same Peer ID.
