@@ -81,7 +81,10 @@ Then you will see a link like that 👇
 
 •Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N] **N**
 
-•Enter the name of the model you want to use in huggingface repo/name format, or press [Enter] to use the default model. (press Enter and get defalut model). **Simple click enter button**
+• Gensyn/Qwen2.5-0.5B-Instruct
+•Qwen/Qwen3-0.6B
+•nvidia/AceInstruct-1.5B
+•dnotitia/Smoothie-Qwen3-1.7B
 
 •Would you like your model to participate in the AI Prediction Market? [Y/n] Enter **Y**
 
