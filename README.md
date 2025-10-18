@@ -94,6 +94,9 @@ nvidia/AceInstruct-1.5B
 ```
 dnotitia/Smoothie-Qwen3-1.7B
 ```
+```
+Gensyn/Qwen2.5-1.5B-Instruct
+```
 
 •Would you like your model to participate in the AI Prediction Market? [Y/n] Enter **Y**
 
