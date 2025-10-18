@@ -82,13 +82,14 @@ Then you will see a link like that 👇
 •Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N] **N**
 
 •**Select one model**
-low parameter (If your hardware specifications are low, then select a lower-parameter model)
+
+•**Lowest parameterp model** (If your hardware specifications are low, then select a lower-parameter model)
 
 
 ```
 Gensyn/Qwen2.5-0.5B-Instruct
 ```
-**High parameter model**(If your hardware specifications are high, then select a high-parameter model)
+🖥️**High parameter model**(If your hardware specifications are high, then select a high-parameter model)
 
 
 ```
