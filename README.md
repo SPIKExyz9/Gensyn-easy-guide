@@ -79,7 +79,7 @@ Then you will see a link like that 👇
 
 4️⃣ **Final step**
 
-•Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N] **N**
+•`Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N]` **N**
 
 •**Select one model**
 
@@ -105,7 +105,7 @@ dnotitia/Smoothie-Qwen3-1.7B
 Gensyn/Qwen2.5-1.5B-Instruct
 ```
 
-•Would you like your model to participate in the AI Prediction Market? [Y/n] Enter **Y**
+•`Would you like your model to participate in the AI Prediction Market? [Y/n]` Enter **Y**
 
 
 🖥️**congratulations now your node setup is successfully complete**🎉
