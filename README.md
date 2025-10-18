@@ -81,12 +81,19 @@ Then you will see a link like that 👇
 
 •Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N] **N**
 
-Select one model
-
-• Gensyn/Qwen2.5-0.5B-Instruct
-•Qwen/Qwen3-0.6B
-•nvidia/AceInstruct-1.5B
-•dnotitia/Smoothie-Qwen3-1.7B
+•**Select one model**
+```
+Gensyn/Qwen2.5-0.5B-Instruct
+```
+```
+Qwen/Qwen3-0.6B
+```
+```
+nvidia/AceInstruct-1.5B
+```
+```
+dnotitia/Smoothie-Qwen3-1.7B
+```
 
 •Would you like your model to participate in the AI Prediction Market? [Y/n] Enter **Y**
 
