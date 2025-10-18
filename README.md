@@ -79,7 +79,7 @@ Then you will see a link like that 👇
 
 4️⃣ **Final step**
 
-•`Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N]` **N**
+•`Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N]`enter **N**
 
 •**Select one model**
 
