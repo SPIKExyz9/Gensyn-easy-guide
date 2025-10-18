@@ -82,16 +82,21 @@ Then you will see a link like that 👇
 •Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N] **N**
 
 •**Select one model**
+lower parameter model
+model
+
 ```
 Gensyn/Qwen2.5-0.5B-Instruct
 ```
+Higher parameter
+
 ```
 Qwen/Qwen3-0.6B
 ```
 ```
 nvidia/AceInstruct-1.5B
 ```
-```
+```l
 dnotitia/Smoothie-Qwen3-1.7B
 ```
 ```
