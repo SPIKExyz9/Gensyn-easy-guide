@@ -117,7 +117,8 @@ Gensyn/Qwen2.5-1.5B-Instruct
 📝•You can save the name and peer ID.
 
 •If you are running it on an VPS do this👇 
-ctrl a + d
+
+`ctrl a + d`
 
 
 • If you want to see the logs, do this👇
